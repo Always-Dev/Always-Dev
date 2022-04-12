@@ -5,7 +5,7 @@
 
 🏳️ I'm French
 
-👩‍💻 I'm currently working on [**SyncMe**](https://always-dev.gitbook.io/syncme/) and [**Braking**](https://google.fr)
+👩‍💻 I'm currently working on [**SyncMe**](https://always-dev.gitbook.io/syncme/) and [**Braking**](https://always-dev.gitbook.io/braking.fr/)
 
 🖋 Story
     
